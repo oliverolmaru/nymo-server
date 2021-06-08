@@ -1,0 +1,23 @@
+date and time:2020-07-21 12:46:08.551711
+lat:59.60533
+lon:25.932893333333332
+Speed:0.8
+Course:93.10000000000001
+AP_mode:MANUAL
+Wind_direction:84
+Wind_speed:6.9
+M1_power:0
+M2_power:0
+M1_current0.0
+M2_current:0.0
+M1_rpm:0.0
+M2_rpm:0.0
+M1_temp:-1
+M2_temp:32767
+Battery_current:-0.02
+Battery_voltage:65.535
+Battery_SOC:6553.5
+Left_front_US_dist:1142
+Middle_front_US_dist:1140
+Right_front_US_dist:1140
+AIS_msg:!AIVDO,1,1,,,B47>?R0028McHL8Qdwpr?wT5oP06,0*3F
